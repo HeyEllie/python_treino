@@ -1,0 +1,7 @@
+Diagonal Principal e Secundária: Calcule a soma dos elementos da diagonal principal ou da diagonal secundária de uma matriz 10x10 preenchida com valores aleatórios. 
+
+Maior Elemento: Encontre o maior valor existente na matriz, desconsiderando os elementos da diagonal principal. 
+
+Matriz Transposta: Implemente um programa que leia uma matriz M(3x3) e imprima a sua transposta. 
+
+Multiplicação de Matrizes: Escreva um programa que leia duas matrizes, A(mxn) e B(nxp), e imprima a matriz C(mxp) resultante do produto A por B. 
